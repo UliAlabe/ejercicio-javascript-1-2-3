@@ -9,3 +9,4 @@ function imprimirPiramide(num) {
   }
   
 imprimirPiramide(6);
+imprimirPiramide(3)
